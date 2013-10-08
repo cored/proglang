@@ -2,6 +2,7 @@
 
 val x = 34;
 val  y = 17;
+val yy = 20;
 
 val  z  = (x+y)+(y+2)
 
